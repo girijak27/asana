@@ -1,0 +1,135 @@
+body {
+    padding: 0;
+    margin: 0;
+
+}
+
+.asana-main {
+    background: url("../images/bg-color.png");
+}
+
+.top-bar {
+    vertical-align: top;
+    padding: 10px 100px;
+}
+
+.left-section {
+    vertical-align: top;
+    display: inline-block;
+    font-family: Arial;
+    font-size: 20px;
+    
+}
+.left-sec1
+{
+    display: inline-block;
+    margin: 20px 10px 20px 10px;
+}
+
+.right-section {
+    
+    display: inline-block;
+    float: right;
+    font-family: Arial;
+    font-size: 20px;
+
+}
+
+.right-sec1
+{
+    vertical-align: top;
+    display: inline-block;
+    margin: 10px 0 0 0;
+    border: none;
+    box-shadow: 1px 0 0 0 grey;
+}
+
+.right-sec2
+{
+    vertical-align: top;
+    display: inline-block;
+    margin: 20px 0 0 10px ;
+}
+
+.submit-button {
+    width: 120px;
+    height: 40px;
+    vertical-align: top;
+    background-color: black;
+    color: #fff;
+    margin: 5px 0 0 10px;
+    border: 0;
+  }
+  .w-40
+  {
+    width: 38%;
+  }
+  .w-50
+  {
+    width: 48%;
+  }
+  .w-60
+  {
+    width: 58%;
+  }
+.middle-page
+{ display: block;
+    padding: 10px 150px;
+    
+}
+.middle-image {
+    display: inline-block;
+    padding: 50Px 0;
+}
+.middle-form {
+    display: inline-block;
+    padding: 0 10px;
+    vertical-align: top;
+    background-color: #fff;
+}
+.form-div{
+    display: inline-block;
+
+}
+.asana-footer{
+    display: block;
+    padding: 20px 40px;
+    background: url(../images/foot_bg_1.png);
+}
+.footer-col{
+    margin: 10px 10px;
+    font-size: 10px;
+    display: inline-block;
+    vertical-align: top;
+
+}
+ul.ul-list li {
+    font-size: 16px;
+    line-height: 40px;
+    font-family: Arial white;
+
+}
+ul.ul-list-1{
+
+    font-size: 16px;
+    font-family: Arial grey;
+
+}
+
+.footer-row{
+    display: block;
+    font-size: 10px;
+    background-color: grey;
+    font-family: Verdana white;
+}
+a:link
+{
+    color:#FFFFFF;
+    text-decoration: none;
+}
+
+a:visited
+{
+    color:#FFFFFF;
+    text-decoration: none;
+}
